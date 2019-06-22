@@ -1,8 +1,23 @@
-name:
+full_name:
   first: Daniil
   last: Yakubenka 
-phone: (29)1482840
+phone_number: 375(29)1482840
 email: dan_i3@mail.ru
+age: 22
 social:
   github: Padfod
   telegram: willpy
+goal: Perform this test to pass on the course Rubizza
+programming_languages:
+    frontEnd: html,css,js(beginner)
+    backEnd: ruby(beginner)
+laptop: Xubuntu 18.04(can reinstall  if necessary)
+language:
+  english: c1
+  czech: a1
+  russian: native
+  belarussian: native
+education: 
+  university: BSUIR
+  year: 2018
+hours_per_day: 8+- hours
